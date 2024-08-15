@@ -1,0 +1,37 @@
+LANDON WINSLOW Computer Engineer l.winslow@email.com (123) 456-7890 Malvern, PA LinkedIn EDUCATION Bachelor of Science Electrical and Computer Engineering Carnegie Mellon University 2008 - 2012 Pittsburgh, PA SKILLS Visual Studio Code Git Xilinx Vivado MATLAB AutoCAD VHDL Wireshark Arduino IDE VMware JUnit WORK EXPERIENCE Computer Engineer Siemens Healthineers 2018 - current Malvern, PA Designed and implemented software enhancements using Visual Studio Code, resulting in a 67% reduction in system response time Leveraged Git for version control and achieved a 98% codebase accuracy rate Optimized FPGA designs with Xilinx Vivado, leading to an 89% decrease in resource utilization while maintaining system performance Developed MATLAB scripts for data analysis, which improved data processing speed by 63% and enhancing overall data accuracy Systems Analyst PPG Industries 2015 - 2018 Pittsburgh, PA Conducted comprehensive system analysis, identifying and rectifying inefciencies, which led to a 76% improvement in workfow efciency Collaborated with cross-functional teams to implement Wireshark network monitoring, reducing network downtime by 72% Integrated Arduino IDE for automated equipment control, resulting in a 27% reduction in production errors Assisted in the migration to VMware virtualization and reducing hardware costs by 18% and enhancing scalability IT Support Specialist UPMC 2012 - 2015 Pittsburgh, PA Implemented JUnit testing framework that improved software reliability and reducing critical bugs by 64% Utilized AutoCAD to create detailed technical drawings, contributing to a 74% increase in design precision and manufacturability Employed VHDL-based hardware modules, which resulted in a 76% reduction in power consumption and enhanced system reliability Managed and maintained VMware virtualization infrastructure, ensuring 99.9% uptime for critical systems
+
+Named Entities:
+LANDON WINSLOW Computer Engineer - ORG
+123 - CARDINAL
+Bachelor of Science Electrical and Computer Engineering Carnegie Mellon University - ORG
+Pittsburgh - GPE
+Git Xilinx - PERSON
+VHDL Wireshark Arduino IDE - PERSON
+Malvern - LOC
+Visual Studio Code - PERSON
+67% - PERCENT
+Leveraged Git - PERSON
+98% - PERCENT
+FPGA - ORG
+Xilinx Vivado - ORG
+89% - PERCENT
+Developed MATLAB - PERSON
+63% - PERCENT
+Analyst PPG Industries - ORG
+2015 - 2018 - DATE
+76% - PERCENT
+Wireshark - ORG
+72% - PERCENT
+Integrated Arduino IDE - ORG
+27% - PERCENT
+Assisted - ORG
+VMware - ORG
+18% - PERCENT
+Support Specialist - ORG
+2012 - 2015 - DATE
+64% - PERCENT
+74% - PERCENT
+Employed VHDL - PERSON
+76% - PERCENT
+VMware - ORG
+99.9% - PERCENT

@@ -1,0 +1,109 @@
+Sourabh Shelke Richardson, TX | (469)-927-3787 | sourabhshelke1901@gmail.com | https://www.linkedin.com/in/sourabhshelke EDUCATION The University of Texas at Dallas, Richardson, Texas August 2021 - May 2023 M.S., Business Analytics 3.8 GPA Relevant Coursework: Database for business analytics, Advanced Statistics, Predictive Analytics using SAS, Prescriptive Analytics, Spreadsheet modelling and analysis, Business Analytics with R, Cloud Analytics, Big Data. Pune University, Maharashtra, India B.E., Computer Engineering July 2016 - May 2019 3.5 GPA SKILLS & CERTIFICATIONS Languages: SQL, NoSQL, R, Python, SAS. Tools: SQL Developer, Tableau, Advanced Microsoft Excel, Power BI, Visio, MongoDB, Hadoop, Amazon Athena, Redshift, Glue, Alteryx, Apache Spark, QuickSight, Azure Synapse Studio, UNIX. Technical Skills: Data Analysis, Federated Queries, Data Visualization, Business Intelligence, Cloud Computing, Data Modelling, Pattern and Trend Analysis, Shell Scripting. Statistical analysis: Hypothesis testing, Regression analysis, ANOVA, Time-series Forecasting. Other tools: JIRA, MS Office, SharePoint, ServiceNow, MS SQL Server, Metabase, Confluence. Certifications: AWS Cloud Practitioner, Azure Enterprise Data Analyst, Alteryx Designer Core. PROFESSIONAL EXPERIENCE Tietoevry, Pune, India Data Analyst August 2019 – May 2021 Gathered quantitative data and analyzed it using SQL to understand customer behavior, demographics and lifecycle which reduced extra inventory worth $10k to $15k per month. Enhanced the process of change and problem management by identifying KPIs and creating real-time dashboards using Tableau and Microsoft Power BI, which reduced the number of recurring issues by 25%. Created Shell Scripts and scheduled them as jobs to automate monthly invoice reconciliation which resulted in minimizing time spent on month end invoice tasks by 40%. Improved Supply Chain Management by implementing Linear Programming and Sensitivity Analysis to determine the feasible suppliers and minimize the yearly transportation cost by $160k. Developed a Multiple Linear Regression model with R-Squared value of 0.84 to understand the factors affecting the demand of commodities and thereby improvised promotions increasing the gross profit by 6.4% University of Texas at Dallas, United States Teaching Assistant (Adv Statistics for Data Science, Prescriptive Analytics) August 2022 – December 2022 Created and analyzed progress reports of 180+ students in three classes based on their academic performance. Constructed and maintained centralized data of students to quickly generate class statistics for exams or assignments. ACADEMIC PROJECTS Financial performance analysis, University of Texas at Dallas | R, Excel August 2022 – December 2022 Extracted financial data of two leading airlines and created schema in S3 using AWS Glue Crawlers for competitive analysis. Created and deployed a Lambda function to run federated queries in Athena and Redshift with S3 as an endpoint to store the query results and analysis in a S3 bucket. Identified the progress, profitability over time by using QuickSight and did trend analysis to predict near future performance. Library Management System, University of Texas at Dallas | SQL, R January 2022 – March 2022 Designed and configured a relational database using Oracle SQL to manage a library having 16000+ books. Analyzed student behavior, borrowing trend, retention statistics and improved availability by formulating linear regression models with R-squared value greater than 78% and created dynamic Tableau dashboards for further analysis and reporting. Bitcoin Price Prediction, University of Texas at Dallas | R August 2021 – December 2021 Extracted time-series data of Bitcoin prices and U.S. equity market and created a dataset by employing Data Cleaning and Data Manipulation techniques. Using AIC, created and selected VAR and ARIMA models to forecast Bitcoin price for next 30 days.
+
+Named Entities:
+Sourabh Shelke Richardson - PERSON
+TX - ORG
+469)-927-3787 - CARDINAL
+The University of Texas - ORG
+Dallas - GPE
+Richardson - GPE
+Texas - GPE
+2021 - May 2023 - DATE
+M.S. - GPE
+Business Analytics - ORG
+3.8 - CARDINAL
+Advanced Statistics - ORG
+Predictive Analytics - ORG
+SAS - ORG
+Prescriptive Analytics - ORG
+Spreadsheet - ORG
+Business Analytics - ORG
+Cloud Analytics - PERSON
+Big Data - ORG
+Pune University - ORG
+Maharashtra - GPE
+India - GPE
+Computer Engineering - ORG
+July 2016 - May 2019 - DATE
+3.5 - CARDINAL
+GPA SKILLS & CERTIFICATIONS Languages - ORG
+SQL - ORG
+NoSQL - ORG
+SAS - ORG
+SQL Developer - ORG
+Tableau - PERSON
+Power BI - PERSON
+Hadoop - ORG
+Amazon Athena - ORG
+Apache Spark - ORG
+Synapse Studio - PERSON
+UNIX - GPE
+Federated Queries - ORG
+Data Visualization, Business Intelligence - ORG
+Cloud Computing - PERSON
+Data Modelling - ORG
+Pattern - ORG
+Trend Analysis - ORG
+Shell Scripting - PERSON
+SharePoint - ORG
+ServiceNow - ORG
+SQL Server - ORG
+Metabase - GPE
+Confluence - ORG
+Cloud Practitioner - PERSON
+Alteryx Designer Core - PERSON
+EXPERIENCE Tietoevry - PERSON
+Pune - GPE
+India - GPE
+August 2019 - DATE
+SQL - ORG
+$10k to $15k - MONEY
+Tableau - PERSON
+Microsoft Power BI - ORG
+25% - PERCENT
+Shell Scripts - PERSON
+monthly - DATE
+month end - DATE
+40% - PERCENT
+Improved Supply Chain Management - ORG
+Linear Programming and Sensitivity Analysis - ORG
+160k - MONEY
+a Multiple Linear Regression - ORG
+0.84 - CARDINAL
+6.4% - PERCENT
+University of Texas - ORG
+Dallas - GPE
+United States - GPE
+Data Science - ORG
+August 2022 - DATE
+2022 - DATE
+180 - CARDINAL
+three - CARDINAL
+PROJECTS Financial - ORG
+University of Texas - ORG
+Dallas - GPE
+August 2022 - DATE
+December 2022 - DATE
+two - CARDINAL
+S3 - CARDINAL
+Lambda - NORP
+Athena - ORG
+Library Management System - ORG
+University of Texas - ORG
+Dallas - GPE
+SQL - ORG
+January 2022 - DATE
+Oracle SQL - ORG
+16000+ - QUANTITY
+78% - PERCENT
+Tableau - PERSON
+University of Texas - ORG
+Dallas - GPE
+August 2021 - DATE
+December 2021 - DATE
+U.S. - GPE
+Data Cleaning - ORG
+AIC - ORG
+VAR - ORG
+ARIMA - ORG
+next 30 days - DATE

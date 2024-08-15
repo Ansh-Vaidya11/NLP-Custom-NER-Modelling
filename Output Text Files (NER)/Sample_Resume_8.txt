@@ -1,0 +1,32 @@
+STEFAN BUCHHOLZ Data Analytics Engineer stefan.buchholz@email.com (123) 456-7890 Raleigh, NC LinkedIn WORK EXPERIENCE Data Analytics Engineer Oculus 2019 - current Raleigh, NC Managed 100% of continuous integration and continuous deployment-based initiatives Collaborated with 3 product teams tasked to create premier member experiences using AWS Created and updated technical documentation such as source mapping documents and data dictionaries Managed 55,000+ datasets to track data lineage, ensure data quality, and improve data discoverability Designed and implemented 5 data model changes to align with updated industry standards Data & Analytics Consultant KPMG 2018 - 2019 Raleigh, NC Translated business needs into technical specifcations to deliver 4 customized reporting systems Built 17 data pipelines and infrastructures to support the needs of machine learning and analytics Designed, built, and maintained 100% of automated systems for reporting, analysis, and analytics Identifed and interpreted trends, patterns, and correlations among 100+ data points Data Analytics Engineer Harbor Freight Tools 2015 - 2018 Raleigh, NC Collaborated with 6 business stakeholders to analyze business processes and recommend technical solutions Defned data standards that enabled >70% more effcient and effective decision making Developed, documented, and implemented 20+ data analysis, analytics, and reporting solutions Supported the development of 7 dashboards and models pertaining to connectivity and visualization of IOT data EDUCATION Bachelor's of Science Computer Science Duke University 2011 - 2015 Durham, NC SKILLS Python Numpy Matplotlib Snowfake AWS TensorFlow R SQL Jupyter Notebook NoSQL
+
+Named Entities:
+STEFAN BUCHHOLZ Data Analytics Engineer - ORG
+123 - CARDINAL
+NC LinkedIn - PERSON
+Data Analytics Engineer Oculus - ORG
+2019 - DATE
+Raleigh - ORG
+100% - PERCENT
+3 - CARDINAL
+AWS Created - ORG
+55,000+ - QUANTITY
+Designed - ORG
+5 - CARDINAL
+Data & Analytics Consultant - ORG
+4 - CARDINAL
+17 - CARDINAL
+Designed - ORG
+100% - PERCENT
+100 - CARDINAL
+Data Analytics Engineer Harbor - ORG
+2015 - 2018 - DATE
+6 - CARDINAL
+>70% - PERCENT
+Developed - PERSON
+20 - CARDINAL
+7 - CARDINAL
+IOT - ORG
+Bachelor's of - ORG
+Science Computer Science Duke University - ORG
+2011 - 2015 - DATE
